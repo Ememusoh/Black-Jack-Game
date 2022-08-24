@@ -1,0 +1,33 @@
+body{
+background-image: url(header-bg.png);
+text-align: center;
+color: #fff;
+font-family: 'Courier New', Courier, monospace;
+background-size:cover;
+font-weight: bold;
+}
+
+
+
+h1{
+
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+
+}
+
+button{
+    border-radius: 10px;
+    padding:  10px 20px;
+    border: none;
+    width: 30%;
+    margin-top: 10px;
+    background-color: goldenrod;
+    font-weight: bold;
+    display: block;
+    margin-left: 35%;
+    margin-top: 20px;
+}
